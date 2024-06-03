@@ -1,1 +1,1 @@
-# Questions, Codes and Reports for PRML Labs.
+# Questions, Codes and Reports for PRML Lab Assignments
