@@ -2,9 +2,7 @@
 ### Steps to run the script for Question 1
 If using the terminal, type in the following:
 * python B22CS090_train.py train.txt
-* python B22CS090_text.py test.txt
-\
-\
+* python B22CS090_text.py test.txt\\
 If using jupyter notebook, type in the following:
 * %run B22CS090_train.py train.txt
 * %run B22CS090_text.py test.txt
