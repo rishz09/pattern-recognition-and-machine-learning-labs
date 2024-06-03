@@ -1,4 +1,5 @@
-# Steps to run the script for Question 1
+# Lab 5, 6
+## Steps to run the script for Question 1
 If using the terminal, type in the following:
 * python B22CS090_train.py train.txt
 * python B22CS090_text.py test.txt
