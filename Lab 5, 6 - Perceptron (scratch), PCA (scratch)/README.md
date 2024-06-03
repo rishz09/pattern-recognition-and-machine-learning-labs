@@ -10,6 +10,7 @@ If using jupyter notebook, type in the following:
 \
 \
 The following .txt files are generated:
+\
 B22CS090_data.txt
 \
 B22CS090_train.txt
